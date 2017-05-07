@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shipping Calculator</string>
+    <string name="action_settings">settings</string>
+
+
+
+
+    <string name="weightLBL">Enter the weight of your package</string>
+    <string name="kgLBL">(in Kilo Grams) </string>
+    <string name="baseCostLBL">Base Cost</string>
+    <string name="addCostLBL">Added Cost</string>
+    <string name="totalCostLBL">Total Shipping Cost</string>
+    <string name="zeroDec">£.00</string>
+    <string name="zero">0</string>
+</resources>
